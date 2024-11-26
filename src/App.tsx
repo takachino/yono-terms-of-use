@@ -51,7 +51,7 @@ function App() {
         <div className="max-w-4xl mx-auto px-4 py-6">
           <div className="flex items-center space-x-3">
             <ScrollText className="h-8 w-8 text-indigo-600" />
-            <h1 className="text-2xl font-bold text-gray-900">Terms of Use</h1>
+            <h1 className="text-2xl font-bold text-gray-900">利用規約</h1>
           </div>
           <p className="mt-2 text-gray-600">Last updated: {new Date().toLocaleDateString()}</p>
         </div>
