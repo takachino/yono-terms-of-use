@@ -63,8 +63,8 @@ function App() {
           {/* Introduction */}
           <div className="p-6 border-b border-gray-200">
             <p className="text-gray-700 leading-relaxed">
-              Welcome to our website. If you continue to browse and use this website, you are agreeing to comply with and be bound by the following terms and conditions of use.
-            </p>
+              埼玉県さいたま市中央区コミュニティへようこそ！ このコミュニティへの参加と利用には、以下の利用規約を遵守し、同意したことになります。
+s            </p>
           </div>
 
           {/* Accordion Sections */}
