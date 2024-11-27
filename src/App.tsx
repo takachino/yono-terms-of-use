@@ -11,7 +11,7 @@ function App() {
 
   const sections: Section[] = [
     {
-      title: "1. Acceptance of Terms",
+      title: "1. 規約への同意",
       content: "By accessing and using this website, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to abide by these terms, please do not use this website."
     },
     {
