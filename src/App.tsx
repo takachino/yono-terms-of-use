@@ -12,7 +12,7 @@ function App() {
   const sections: Section[] = [
     {
       title: "1. 規約への同意",
-      content: "By accessing and using this website, you accept and agree to be bound by the terms and provisions of this agreement. If you do not agree to abide by these terms, please do not use this website."
+      content: "このコミュニティサイトにアクセスし、使用することにより、お客様は本契約の条件および規定に同意したものとみなされます。これらの条件に従うことに同意しない場合は、このコミュニティサイトを使用しないでください。"
     },
     {
       title: "2. Use License",
