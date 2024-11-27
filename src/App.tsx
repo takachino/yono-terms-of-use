@@ -15,16 +15,15 @@ function App() {
       content: "このコミュニティサイトにアクセスし、使用することにより、お客様は本契約の条件および規定に同意したものとみなされます。これらの条件に従うことに同意しない場合は、このコミュニティサイトを使用しないでください。"
     },
     {
-      title: "2. Use License",
-      content: "Permission is granted to temporarily download one copy of the materials (information or software) on this website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not: modify or copy the materials; use the materials for any commercial purpose; attempt to decompile or reverse engineer any software contained on the website; remove any copyright or other proprietary notations from the materials; or transfer the materials to another person or 'mirror' the materials on any other server."
+      title: "2. 使用ライセンス",
+      content: "この Web サイト上の資料 (情報またはソフトウェア) のコピーを 1 部、個人的かつ非商用の一時的な閲覧のみを目的として一時的にダウンロードすることを許可します。これはライセンスの付与であり、所有権の譲渡ではありません。このライセンスでは、資料を変更またはコピーすること、資料を商用目的で使用すること、Web サイトに含まれるソフトウェアを逆コンパイルまたはリバース エンジニアリングすること、資料から著作権またはその他の所有権表示を削除すること、資料を別の人物に譲渡すること、または資料を他のサーバーに「ミラーリング」することは許可されません。"
+    {
+      title: "3. 免責事項",
+      content: "このウェブサイトの資料は「現状のまま」提供されます。当社は、明示的または黙示的な保証を一切行わず、商品性、特定目的への適合性、知的財産権の非侵害またはその他の権利侵害の黙示的保証または条件を含むがこれらに限定されない、その他すべての保証を放棄し、否定します。"
     },
     {
-      title: "3. Disclaimer",
-      content: "The materials on this website are provided on an 'as is' basis. We make no warranties, expressed or implied, and hereby disclaim and negate all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights."
-    },
-    {
-      title: "4. Limitations",
-      content: "In no event shall we or our suppliers be liable for any damages (including, without limitation, damages for loss of data or profit, or due to business interruption) arising out of the use or inability to use the materials on our website, even if we or an authorized representative has been notified orally or in writing of the possibility of such damage."
+      title: "4. 制限事項",
+      content: "いかなる場合においても、当社または当社のサプライヤーは、当社または権限を与えられた代表者が口頭または書面でかかる損害の可能性について通知されていたとしても、当社ウェブサイト上の資料の使用または使用不能から生じるいかなる損害（データ損失または利益損失、または事業中断による損害を含むがこれに限定されない）についても責任を負わないものとします。"
     },
     {
       title: "5. Revisions and Errata",
